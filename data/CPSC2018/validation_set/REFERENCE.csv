@@ -1,0 +1,301 @@
+,Unnamed: 0,Recording,First_label,Second_label,Third_label,reports,sex,age
+0,0,A0001,5,,,right bundle branch block,Male,74
+1,1,A0002,1,,,normal,Female,49
+2,2,A0003,2,,,atrial fibrillation,Female,81
+3,3,A0004,2,,,atrial fibrillation,Male,45
+4,4,A0005,7,,,premature ventricular contraction,Male,53
+5,5,A0006,5,,,right bundle branch block,Male,29
+6,6,A0007,2,,,atrial fibrillation,Male,74
+7,7,A0008,8,,,st-segment depression,Female,80
+8,8,A0009,2,,,atrial fibrillation,Male,81
+9,9,A0010,5,,,right bundle branch block,Male,82
+10,10,A0011,4,,,left bundle branch block,Male,87
+11,11,A0012,7,,,premature ventricular contraction,Male,74
+12,12,A0013,8,,,st-segment depression,Female,57
+13,13,A0014,8,,,st-segment depression,Female,76
+14,14,A0015,5,,,right bundle branch block,Female,41
+15,15,A0016,1,,,normal,Female,14
+16,16,A0017,2,,,atrial fibrillation,Female,60
+17,17,A0018,4,,,left bundle branch block,Female,92
+18,18,A0019,2,,,atrial fibrillation,Female,74
+19,19,A0020,1,,,normal,Female,27
+20,20,A0021,9,,,st-segment elevated,Male,64
+21,21,A0022,5,,,right bundle branch block,Female,27
+22,22,A0023,2,,,atrial fibrillation,Female,67
+23,23,A0024,7,,,premature ventricular contraction,Female,64
+24,24,A0025,7,,,premature ventricular contraction,Female,74
+25,25,A0026,2,,,atrial fibrillation,Male,74
+26,26,A0027,5,,,right bundle branch block,Female,55
+27,27,A0028,5,,,right bundle branch block,Female,58
+28,28,A0029,1,,,normal,Female,35
+29,29,A0030,1,,,normal,Male,46
+30,30,A0031,7,,,premature ventricular contraction,Female,62
+31,31,A0032,9,,,st-segment elevated,Male,30
+32,32,A0033,8,,,st-segment depression,Female,34
+33,33,A0034,9,,,st-segment elevated,Male,61
+34,34,A0035,5,,,right bundle branch block,Male,52
+35,35,A0036,9,,,st-segment elevated,Male,62
+36,36,A0037,1,,,normal,Female,42
+37,37,A0038,1,,,normal,Male,55
+38,38,A0039,3,,,1 degree atrioventricular block,Male,17
+39,39,A0040,8,,,st-segment depression,Female,28
+40,40,A0041,1,,,normal,Female,40
+41,41,A0042,3,,,1 degree atrioventricular block,Male,88
+42,42,A0043,5,2.0,,right bundle branch block atrial fibrillation,Female,85
+43,43,A0044,4,,,left bundle branch block,Male,84
+44,44,A0045,7,,,premature ventricular contraction,Male,67
+45,45,A0046,9,,,st-segment elevated,Male,58
+46,46,A0047,6,,,premature atrial contraction,Female,31
+47,47,A0048,8,,,st-segment depression,Female,54
+48,48,A0049,6,,,premature atrial contraction,Female,85
+49,49,A0050,7,,,premature ventricular contraction,Male,67
+50,50,A0051,5,,,right bundle branch block,Female,72
+51,51,A0052,7,,,premature ventricular contraction,Female,80
+52,52,A0053,5,,,right bundle branch block,Male,76
+53,53,A0054,9,,,st-segment elevated,Male,46
+54,54,A0055,6,,,premature atrial contraction,Female,79
+55,55,A0056,8,,,st-segment depression,Female,51
+56,56,A0057,4,,,left bundle branch block,Male,85
+57,57,A0058,9,,,st-segment elevated,Male,78
+58,58,A0059,1,,,normal,Female,28
+59,59,A0060,8,,,st-segment depression,Male,64
+60,60,A0061,2,,,atrial fibrillation,Female,82
+61,61,A0062,6,,,premature atrial contraction,Male,66
+62,62,A0063,9,,,st-segment elevated,Male,50
+63,63,A0064,2,,,atrial fibrillation,Male,83
+64,64,A0065,2,,,atrial fibrillation,Female,66
+65,65,A0066,5,,,right bundle branch block,Male,63
+66,66,A0067,8,,,st-segment depression,Female,26
+67,67,A0068,5,,,right bundle branch block,Female,55
+68,68,A0069,5,,,right bundle branch block,Male,11
+69,69,A0070,3,,,1 degree atrioventricular block,Female,68
+70,70,A0071,2,,,atrial fibrillation,Female,82
+71,71,A0072,9,,,st-segment elevated,Male,14
+72,72,A0073,1,,,normal,Female,14
+73,73,A0074,4,,,left bundle branch block,Male,80
+74,74,A0075,1,,,normal,Female,48
+75,75,A0076,8,,,st-segment depression,Female,55
+76,76,A0077,8,,,st-segment depression,Female,50
+77,77,A0078,5,,,right bundle branch block,Male,64
+78,78,A0079,5,2.0,,right bundle branch block atrial fibrillation,Female,77
+79,79,A0080,6,,,premature atrial contraction,Female,74
+80,80,A0081,4,,,left bundle branch block,Female,39
+81,81,A0082,4,,,left bundle branch block,Female,48
+82,82,A0083,5,,,right bundle branch block,Male,62
+83,83,A0084,7,,,premature ventricular contraction,Female,72
+84,84,A0085,5,,,right bundle branch block,Male,50
+85,85,A0086,2,,,atrial fibrillation,Female,65
+86,86,A0087,5,,,right bundle branch block,Male,65
+87,87,A0088,7,,,premature ventricular contraction,Female,37
+88,88,A0089,1,,,normal,Female,49
+89,89,A0090,1,,,normal,Female,51
+90,90,A0091,6,,,premature atrial contraction,Female,78
+91,91,A0092,8,,,st-segment depression,Female,54
+92,92,A0093,9,,,st-segment elevated,Male,49
+93,93,A0094,1,,,normal,Female,29
+94,94,A0095,5,,,right bundle branch block,Female,53
+95,95,A0096,5,,,right bundle branch block,Male,45
+96,96,A0097,6,,,premature atrial contraction,Female,17
+97,97,A0098,5,,,right bundle branch block,Male,31
+98,98,A0099,7,,,premature ventricular contraction,Male,48
+99,99,A0100,8,,,st-segment depression,Female,75
+100,100,A0101,2,,,atrial fibrillation,Female,79
+101,101,A0102,3,,,1 degree atrioventricular block,Male,80
+102,102,A0103,7,,,premature ventricular contraction,Male,58
+103,103,A0104,3,,,1 degree atrioventricular block,Male,48
+104,104,A0105,7,,,premature ventricular contraction,Male,65
+105,105,A0106,8,,,st-segment depression,Female,89
+106,106,A0107,1,,,normal,Female,26
+107,107,A0108,6,,,premature atrial contraction,Female,83
+108,108,A0109,2,5.0,,atrial fibrillation right bundle branch block,Female,75
+109,109,A0110,8,,,st-segment depression,Female,33
+110,110,A0111,8,,,st-segment depression,Female,40
+111,111,A0112,5,2.0,,right bundle branch block atrial fibrillation,Female,88
+112,112,A0113,6,,,premature atrial contraction,Female,34
+113,113,A0114,5,,,right bundle branch block,Male,40
+114,114,A0115,6,,,premature atrial contraction,Male,78
+115,115,A0116,5,,,right bundle branch block,Female,73
+116,116,A0117,2,,,atrial fibrillation,Male,70
+117,117,A0118,3,,,1 degree atrioventricular block,Female,55
+118,118,A0119,5,,,right bundle branch block,Male,64
+119,119,A0120,9,,,st-segment elevated,Female,82
+120,120,A0121,2,,,atrial fibrillation,Male,81
+121,121,A0122,2,,,atrial fibrillation,Male,74
+122,122,A0123,7,,,premature ventricular contraction,Female,83
+123,123,A0124,6,,,premature atrial contraction,Male,33
+124,124,A0125,1,,,normal,Female,25
+125,125,A0126,2,,,atrial fibrillation,Female,87
+126,126,A0127,5,,,right bundle branch block,Male,64
+127,127,A0128,8,,,st-segment depression,Male,73
+128,128,A0129,7,,,premature ventricular contraction,Male,53
+129,129,A0130,7,,,premature ventricular contraction,Male,68
+130,130,A0131,4,,,left bundle branch block,Female,65
+131,131,A0132,3,,,1 degree atrioventricular block,Male,72
+132,132,A0133,1,,,normal,Male,26
+133,133,A0134,5,,,right bundle branch block,Male,66
+134,134,A0135,5,,,right bundle branch block,Male,56
+135,135,A0136,6,,,premature atrial contraction,Male,61
+136,136,A0137,6,,,premature atrial contraction,Male,66
+137,137,A0138,5,,,right bundle branch block,Male,50
+138,138,A0139,9,,,st-segment elevated,Male,62
+139,139,A0140,8,,,st-segment depression,Male,79
+140,140,A0141,1,,,normal,Female,34
+141,141,A0142,5,,,right bundle branch block,Male,73
+142,142,A0143,1,,,normal,Female,36
+143,143,A0144,7,,,premature ventricular contraction,Male,48
+144,144,A0145,2,,,atrial fibrillation,Male,45
+145,145,A0146,7,,,premature ventricular contraction,Female,72
+146,146,A0147,9,,,st-segment elevated,Male,52
+147,147,A0148,8,,,st-segment depression,Female,49
+148,148,A0149,1,,,normal,Female,28
+149,149,A0150,2,,,atrial fibrillation,Female,85
+150,150,A0151,5,,,right bundle branch block,Female,60
+151,151,A0152,5,8.0,,right bundle branch block st-segment depression,Male,63
+152,152,A0153,2,,,atrial fibrillation,Male,52
+153,153,A0154,8,,,st-segment depression,Male,81
+154,154,A0155,5,,,right bundle branch block,Male,66
+155,155,A0156,7,,,premature ventricular contraction,Female,55
+156,156,A0157,1,,,normal,Female,14
+157,157,A0158,7,,,premature ventricular contraction,Female,63
+158,158,A0159,7,,,premature ventricular contraction,Female,32
+159,159,A0160,5,,,right bundle branch block,Male,34
+160,160,A0161,5,,,right bundle branch block,Male,68
+161,161,A0162,7,,,premature ventricular contraction,Female,49
+162,162,A0163,9,3.0,,st-segment elevated 1 degree atrioventricular block,Male,52
+163,163,A0164,1,,,normal,Female,47
+164,164,A0165,8,,,st-segment depression,Female,57
+165,165,A0166,1,,,normal,Female,50
+166,166,A0167,6,,,premature atrial contraction,Female,75
+167,167,A0168,5,,,right bundle branch block,Male,66
+168,168,A0169,5,,,right bundle branch block,Male,52
+169,169,A0170,1,,,normal,Female,22
+170,170,A0171,5,,,right bundle branch block,Male,78
+171,171,A0172,3,,,1 degree atrioventricular block,Male,55
+172,172,A0173,1,,,normal,Female,34
+173,173,A0174,9,,,st-segment elevated,Female,65
+174,174,A0175,1,,,normal,Male,47
+175,175,A0176,1,,,normal,Male,49
+176,176,A0177,1,,,normal,Male,23
+177,177,A0178,5,,,right bundle branch block,Female,70
+178,178,A0179,1,,,normal,Male,29
+179,179,A0180,5,,,right bundle branch block,Male,57
+180,180,A0181,5,,,right bundle branch block,Male,70
+181,181,A0182,7,4.0,,premature ventricular contraction left bundle branch block,Female,76
+182,182,A0183,5,,,right bundle branch block,Female,85
+183,183,A0184,2,,,atrial fibrillation,Male,52
+184,184,A0185,8,,,st-segment depression,Female,47
+185,185,A0186,2,,,atrial fibrillation,Male,65
+186,186,A0187,8,,,st-segment depression,Male,68
+187,187,A0188,3,,,1 degree atrioventricular block,Male,46
+188,188,A0189,1,,,normal,Male,53
+189,189,A0190,1,,,normal,Female,36
+190,190,A0191,6,,,premature atrial contraction,Female,60
+191,191,A0192,1,,,normal,Male,33
+192,192,A0193,1,,,normal,Female,31
+193,193,A0194,8,,,st-segment depression,Male,58
+194,194,A0195,8,,,st-segment depression,Male,71
+195,195,A0196,8,,,st-segment depression,Female,65
+196,196,A0197,6,,,premature atrial contraction,Female,82
+197,197,A0198,2,,,atrial fibrillation,Male,90
+198,198,A0199,5,,,right bundle branch block,Male,78
+199,199,A0200,5,,,right bundle branch block,Male,48
+200,200,A0201,8,,,st-segment depression,Female,22
+201,201,A0202,3,7.0,,1 degree atrioventricular block premature ventricular contraction,Female,83
+202,202,A0203,2,,,atrial fibrillation,Male,77
+203,203,A0204,7,,,premature ventricular contraction,Female,48
+204,204,A0205,2,,,atrial fibrillation,Male,79
+205,205,A0206,1,,,normal,Female,62
+206,206,A0207,7,,,premature ventricular contraction,Female,72
+207,207,A0208,1,,,normal,Female,74
+208,208,A0209,5,,,right bundle branch block,Male,35
+209,209,A0210,1,,,normal,Female,42
+210,210,A0211,5,,,right bundle branch block,Female,57
+211,211,A0212,3,,,1 degree atrioventricular block,Male,16
+212,212,A0213,8,2.0,,st-segment depression atrial fibrillation,Male,61
+213,213,A0214,2,,,atrial fibrillation,Female,86
+214,214,A0215,5,,,right bundle branch block,Male,63
+215,215,A0216,5,,,right bundle branch block,Male,65
+216,216,A0217,2,,,atrial fibrillation,Male,68
+217,217,A0218,5,6.0,,right bundle branch block premature atrial contraction,Female,71
+218,218,A0219,5,,,right bundle branch block,Male,29
+219,219,A0220,2,,,atrial fibrillation,Female,79
+220,220,A0221,1,,,normal,Female,35
+221,221,A0222,2,,,atrial fibrillation,Female,70
+222,222,A0223,3,,,1 degree atrioventricular block,Male,67
+223,223,A0224,6,5.0,,premature atrial contraction right bundle branch block,Male,92
+224,224,A0225,5,,,right bundle branch block,Male,19
+225,225,A0226,5,,,right bundle branch block,Female,80
+226,226,A0227,6,,,premature atrial contraction,Male,72
+227,227,A0228,5,,,right bundle branch block,Female,94
+228,228,A0229,1,,,normal,Male,80
+229,229,A0230,5,,,right bundle branch block,Female,42
+230,230,A0231,2,,,atrial fibrillation,Male,65
+231,231,A0232,8,,,st-segment depression,Female,37
+232,232,A0233,1,,,normal,Female,26
+233,233,A0234,8,,,st-segment depression,Female,28
+234,234,A0235,2,,,atrial fibrillation,Female,49
+235,235,A0236,3,,,1 degree atrioventricular block,Male,78
+236,236,A0237,6,8.0,,premature atrial contraction st-segment depression,Female,22
+237,237,A0238,3,,,1 degree atrioventricular block,Female,70
+238,238,A0239,3,,,1 degree atrioventricular block,Male,76
+239,239,A0240,3,,,1 degree atrioventricular block,Female,80
+240,240,A0241,7,,,premature ventricular contraction,Female,83
+241,241,A0242,5,,,right bundle branch block,Female,70
+242,242,A0243,3,,,1 degree atrioventricular block,Female,76
+243,243,A0244,4,,,left bundle branch block,Female,62
+244,244,A0245,7,,,premature ventricular contraction,Male,70
+245,245,A0246,3,,,1 degree atrioventricular block,Male,52
+246,246,A0247,2,,,atrial fibrillation,Female,90
+247,247,A0248,3,,,1 degree atrioventricular block,Female,83
+248,248,A0249,5,,,right bundle branch block,Male,23
+249,249,A0250,5,,,right bundle branch block,Female,63
+250,250,A0251,6,5.0,,premature atrial contraction right bundle branch block,Male,73
+251,251,A0252,7,,,premature ventricular contraction,Female,32
+252,252,A0253,4,,,left bundle branch block,Female,80
+253,253,A0254,1,,,normal,Female,42
+254,254,A0255,5,,,right bundle branch block,Female,82
+255,255,A0256,9,,,st-segment elevated,Male,46
+256,256,A0257,2,,,atrial fibrillation,Female,88
+257,257,A0258,5,,,right bundle branch block,Male,60
+258,258,A0259,5,,,right bundle branch block,Male,58
+259,259,A0260,2,,,atrial fibrillation,Female,83
+260,260,A0261,5,,,right bundle branch block,Male,81
+261,261,A0262,3,,,1 degree atrioventricular block,Male,42
+262,262,A0263,3,,,1 degree atrioventricular block,Male,45
+263,263,A0264,1,,,normal,Female,70
+264,264,A0265,6,,,premature atrial contraction,Female,75
+265,265,A0266,5,,,right bundle branch block,Male,39
+266,266,A0267,2,,,atrial fibrillation,Male,52
+267,267,A0268,5,,,right bundle branch block,Male,64
+268,268,A0269,7,,,premature ventricular contraction,Male,64
+269,269,A0270,6,,,premature atrial contraction,Female,85
+270,270,A0271,2,,,atrial fibrillation,Female,92
+271,271,A0272,2,,,atrial fibrillation,Male,87
+272,272,A0273,5,,,right bundle branch block,Male,59
+273,273,A0274,2,,,atrial fibrillation,Male,69
+274,274,A0275,6,,,premature atrial contraction,Male,84
+275,275,A0276,2,,,atrial fibrillation,Female,54
+276,276,A0277,7,8.0,,premature ventricular contraction st-segment depression,Male,71
+277,277,A0278,8,,,st-segment depression,Female,61
+278,278,A0279,2,,,atrial fibrillation,Female,51
+279,279,A0280,3,,,1 degree atrioventricular block,Male,71
+280,280,A0281,1,,,normal,Female,47
+281,281,A0282,8,,,st-segment depression,Male,75
+282,282,A0283,1,,,normal,Male,54
+283,283,A0284,3,,,1 degree atrioventricular block,Male,71
+284,284,A0285,1,,,normal,Male,26
+285,285,A0286,5,,,right bundle branch block,Male,62
+286,286,A0287,1,,,normal,Female,18
+287,287,A0288,3,,,1 degree atrioventricular block,Female,53
+288,288,A0289,6,,,premature atrial contraction,Female,71
+289,289,A0290,2,,,atrial fibrillation,Female,69
+290,290,A0291,4,,,left bundle branch block,Female,72
+291,291,A0292,3,,,1 degree atrioventricular block,Male,63
+292,292,A0293,5,,,right bundle branch block,Female,79
+293,293,A0294,5,,,right bundle branch block,Male,70
+294,294,A0295,6,,,premature atrial contraction,Male,64
+295,295,A0296,5,,,right bundle branch block,Male,76
+296,296,A0297,8,,,st-segment depression,Female,35
+297,297,A0298,5,,,right bundle branch block,Male,65
+298,298,A0299,6,,,premature atrial contraction,Male,14
+299,299,A0300,5,6.0,,right bundle branch block premature atrial contraction,Male,94
