@@ -11,13 +11,15 @@ We use 5 public datasets in our model, they can be downloaded from:
 * [PTB-XL](https://physionet.org/content/ptb-xl/1.0.3/)
 * [CPSC2018](http://2018.icbeb.org/Challenge.html)
 
-We provided the preprocessing code of these datasets, including extracting waveform data, converting to WFDB format, etc. Use the SPH dataset as an example:
+We provided the preprocessing code of these datasets, including extracting waveform data, converting to WFDB format, etc. Take the SPH dataset as an example:
 ```shell
 python ./data/preprocess/preprocess_sph.py --data-dir /path/to/sph
 ```
-You can also copy the .csv files in `data/` to your datasets folders. The translated version of PTB-XL dataset is got from [Fairseq-signals](https://github.com/Jwoo5/fairseq-signals). We also used the CKEPE prompt proposed in [MERL](https://github.com/cheliu-computation/MERL-ICML2024) to evaluate the zero-shot classification ability of our model.
+You can also copy the .csv files in `data/` to your datasets folders. But you still need to convert the data format in SPH and CPSC2018 to WFDB format. 
 
-The fine-tuning datasets of ECG-Chat are provided in `llava/playground/data`.
+The translated version of PTB-XL dataset is got from [Fairseq-signals](https://github.com/Jwoo5/fairseq-signals).
+
+The ECG-Instruct datasets of ECG-Chat are provided in `llava/playground/data/`. `ecg_instruct_45k.json` is the combination of `diagnosis.json` and `conversation.json`. We also shared our prompts to build this two datasets in `llava/playground/data/prompts/`.
 
 Due to the large size, the files `new_record_list.csv` in MIMIC-IV-ECG and pretraining dataset `pretrain_mimic.json` in our project can be downloaded [here](https://www.dropbox.com/scl/fo/ccq5dxmdgg4shf02yjn8c/ANOQ1Hzj4KwHqa1b9r80uzc?rlkey=teysp3v6hg6o9uko2i4zbbjpn&st=exu3i9oo&dl=0).
 ### Train the Models
@@ -26,6 +28,8 @@ To train and evaluate the ECG CoCa model, please use the scripts in `open_clip/`
 To pretraining and fine-tuning the ECG-Chat model, please use the scripts in `llava/`.
 
 The codes for report generation evaluation and RAG are coming soon.
+
+The ECG data augmentation methods implementation comes from [torch_ecg](https://github.com/DeepPSP/torch_ecg). We also used the CKEPE prompt proposed in [MERL](https://github.com/cheliu-computation/MERL-ICML2024) to evaluate the zero-shot classification ability of our model.
 
 ## Citation
 If you think that our work is useful to your research, please cite using this BibTeX:
