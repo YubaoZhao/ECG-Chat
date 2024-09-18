@@ -97,7 +97,7 @@ def prepare(args):
 
     for key in data_dict.keys():
         df[key] = data_dict[key]
-    df.to_csv(os.path.join(data_path, "diagnostics.csv"))
+    df.to_csv(os.path.join(data_dir, "diagnostics.csv"))
 
 
 if __name__ == "__main__":
