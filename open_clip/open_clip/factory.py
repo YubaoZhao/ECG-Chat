@@ -264,8 +264,7 @@ def create_model(
         else:
             model.to(device=device)
         model.to_empty(device=device)
-        print("======="*10)
-        print(device)
+
         pretrained_loaded = False
         if pretrained:
             checkpoint_path = ''
