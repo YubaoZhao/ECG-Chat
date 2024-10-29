@@ -261,8 +261,8 @@ def load_sph(path, is_train, wfep=False):
 
 
 def load_mimic_iv_ecg(path, wfep=True):
-    database = pd.read_csv(os.path.join(path, "machine_measurements.csv")).set_index("study_id")[0:11000]
-    record_list = pd.read_csv(os.path.join(path, "new_record_list.csv"))[0:11000]
+    database = pd.read_csv(os.path.join(path, "machine_measurements.csv")).set_index("study_id")
+    record_list = pd.read_csv(os.path.join(path, "new_record_list.csv"))
 
     indexes = record_list.index.values
     np.random.seed(0)
