@@ -9,7 +9,7 @@ We use 5 public datasets in our model, they can be downloaded from:
 * [Champan-Shaoxing-Ningbo (CSD)](https://physionet.org/content/ecg-arrhythmia/1.0.0/)
 * [Shandong Provincial Hospital (SPH)](https://springernature.figshare.com/collections/A_large-scale_multi-label_12-lead_electrocardiogram_database_with_standardized_diagnostic_statements/5779802/1)
 * [PTB-XL](https://physionet.org/content/ptb-xl/1.0.3/)
-* [CPSC2018](http://2018.icbeb.org/Challenge.html)
+* [CPSC2018](http://2018.icbeb.org/Challenge.html) (The training dataset can be downloaded [here](https://physionet.org/content/challenge-2020/1.0.2/training/cpsc_2018/) if not accessible)
 
 We provided the preprocessing code of these datasets, including extracting waveform data, converting to WFDB format, etc. Take the SPH dataset as an example:
 ```shell
