@@ -263,7 +263,7 @@ def create_model(
             model.to(device=device, dtype=dtype)
         else:
             model.to(device=device)
-        model.to_empty(device=device)
+        # model.to_empty(device=device)
 
         pretrained_loaded = False
         if pretrained:

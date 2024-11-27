@@ -497,6 +497,7 @@ def get_ecg_encoder(model_name, checkpoint_path, device):
         output_dict=True,
         **model_kwargs,
     )
+    model.to_empty(device=device)
     model = model.ecg
     checkpoint = pt_load(checkpoint_path, map_location='cpu')
 
